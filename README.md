@@ -1,5 +1,5 @@
-# site-olymp-statistics
+# rno-statistics
 
-Site with the statistics of Russian National Olympiad.
+Site with statistics of the Russian National Olympiad.
 
 07.08.20
