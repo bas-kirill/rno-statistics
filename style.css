@@ -20,23 +20,3 @@ html {
 	margin: 15px auto;
 	border: 1px solid black; 
 }
-
-
-
-/*.header, .container {
-	width: 100%;
-	max-width: 1024px; /*максимальная ширина может иметь другое значение*/
-	padding: 0 15px;
-	margin: 15px auto;
-	border: 1px solid black; /* задаём границу 
-}
-
-.container {
-	width: 100%;
-	height: 100%;
-	max-width: 1024px; 
-}
-
-
-
-*/
