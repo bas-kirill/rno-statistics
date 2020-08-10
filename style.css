@@ -20,3 +20,9 @@
 	margin: 15px auto;
 	border: 1px solid yellow; 
 }
+
+.btn {
+	width: 100%;
+	max-width: 1024px; /*максимальная ширина может иметь другое значение*/
+	margin: 5px auto
+}
